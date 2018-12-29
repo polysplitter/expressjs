@@ -9,6 +9,7 @@
   "author": "kyle hansen",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "^4.16.4",
     "helmet": "^3.15.0"
   }
